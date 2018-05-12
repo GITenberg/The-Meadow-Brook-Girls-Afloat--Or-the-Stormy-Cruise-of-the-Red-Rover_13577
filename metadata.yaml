@@ -1,0 +1,33 @@
+_repo: The-Meadow-Brook-Girls-Afloat--Or-the-Stormy-Cruise-of-the-Red-Rover_13577
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aldridge, Janet
+    gutenberg_agent_id: '5139'
+    url: http://www.gutenberg.org/2009/agents/5139
+description: '"I wouldn''t advise you young ladies to take the boat out." Miss Elting
+  instantly recalled the message from her brother. The telegram was in her pocket
+  at that moment, "If you have any trouble, Dee Dickinson will see that you are protected,"
+  read the message. It was Dee Dickinson who had spoken to her at that moment. Dee
+  had made a distinctly unfavorable impression on Miss Elting, the guardian and companion
+  of the Meadow-Brook girls.'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+title: The Meadow-Brook Girls Afloat; Or, the Stormy Cruise of the Red Rover
+url: http://www.gutenberg.org/ebooks/13577
